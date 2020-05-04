@@ -3,7 +3,7 @@
 [`最新版本下载地址`](https://github.com/DiexMi/Gboard_Moegirl_Menu_Dictionary/releases/download/20200504/20200504.zip)
 
 
-这是一个根据[萌娘百科](https://zh.moegirl.org/)的目录页，使用excel制作，利用网络工具将中文简单翻译成拼音而形成的词库。
+这是一个根据 [萌娘百科](https://zh.moegirl.org/) 的目录页，使用excel制作，利用网络工具将中文简单翻译成拼音而形成的词库。
 
 由于搜狗词库中的二次元大词库很长时间没有更新，本人又找不到好用的词库，故自给自足了一番。
 
