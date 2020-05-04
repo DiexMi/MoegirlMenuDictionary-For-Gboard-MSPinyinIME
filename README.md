@@ -1,0 +1,2 @@
+# Gboard_Moegirl_Menu_Dictionary
+为Gboard而作的，取自于萌娘百科目录页的二次元词库
