@@ -1,6 +1,6 @@
 # Gboard萌娘百科日本作品名与姓氏汉语全拼词库
 
-[`最新版本下载地址`](https://github.com/DiexMi/Gboard_Moegirl_Menu_Dictionary/releases/download/20200504/20200504.zip)<br>
+[`下载地址`](https://github.com/DiexMi/Gboard_Moegirl_Menu_Dictionary/releases/download/20200504/20200504.zip)<br>
 <br>
 <br>
 这是一个根据 [萌娘百科](https://zh.moegirl.org/) 的目录页，使用excel制作，利用网络工具将中文简单翻译成拼音而形成的词库。
