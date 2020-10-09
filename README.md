@@ -3,7 +3,7 @@ For Gboard & 微软拼音
 
 <br>
 
-[`下载地址`](https://github.com/MoegirlMenuDictionary-For-Gboard-MSPinyinIME/releases)<br>
+[`下载地址`](https://github.com/DiexMi/MoegirlMenuDictionary-For-Gboard-MSPinyinIME/releases)<br>
 
 <br>
 <br>
