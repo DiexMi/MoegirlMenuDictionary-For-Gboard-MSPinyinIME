@@ -1,7 +1,10 @@
-# 萌娘百科日本作品名与姓氏汉语全拼词库 For Gboard & 微软拼音
+# 萌娘百科日本作品名与姓氏汉语全拼词库
+# For Gboard & 微软拼音
 
 <br>
+
 [`下载地址`](https://github.com/MoegirlMenuDictionary-For-Gboard-MSPinyinIME/releases)<br>
+
 <br>
 <br>
 这是一个根据 [萌娘百科](https://zh.moegirl.org/) 的目录页，使用excel制作，利用网络工具将中文简单翻译成拼音而形成的词库。
