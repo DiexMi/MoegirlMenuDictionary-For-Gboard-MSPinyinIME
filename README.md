@@ -1,4 +1,4 @@
-# 萌娘百科日本作品名与姓氏汉语全拼词库 For Gboard & 微软拼音自定义短语
+# 萌娘百科日本作品名与姓氏汉语全拼词库 For Gboard & 微软拼音
 
 
 [`下载地址`](https://github.com/MoegirlMenuDictionary-For-Gboard-MSPinyinIME/releases)<br>
